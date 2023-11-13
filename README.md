@@ -1,5 +1,4 @@
-/design/desktop-preview.jpg
-
+Simple Website with HTML, CSS, Javascript.
 
 
 
