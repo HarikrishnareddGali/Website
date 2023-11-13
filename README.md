@@ -1,4 +1,4 @@
-/design/desktop-preview.jpg)
+/design/desktop-preview.jpg
 
 
 
